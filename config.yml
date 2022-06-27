@@ -1,4 +1,4 @@
 baseURL: ""
 languageCode: "en-us"
 title: "mhcloud | SRE & DevOps Solutions"
-theme: "hugo-theme-shell"
+theme: "hugo-theme-mhcd"
